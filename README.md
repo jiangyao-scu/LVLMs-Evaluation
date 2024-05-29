@@ -1,5 +1,3 @@
-# LVLMs-Evaluation
-
-coming soon!
+# Coming soon!
 
 
