@@ -5,7 +5,7 @@ This is the source code and result of our "Effectiveness Assessment of Recent La
 # Evaluation
 
 ## Download the data
-The data used in our testbed can be downloaded from the following links: [DUTS](http://saliencydetection.net/duts/), [SOC](http://dpfan.net/SOCBenchmark/), [COD10K](https://dengpingfan.github.io/pages/COD.html), [Trans10K](https://xieenze.github.io/projects/TransLAB/TransLAB.html), [ColonDB](http://vi.cvc.uab.es/colon-qa/cvccolondb/), [ETIS](https://www.kaggle.com/datasets/nguyenvoquocduong/etis-laribpolypdb), [ISIC](https://challenge.isic-archive.com/data/), [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad), [VisA](https://paperswithcode.com/dataset/visa)
+The data used in our testbed can be downloaded from the following links: [DUTS](http://saliencydetection.net/duts/), [SOC](http://dpfan.net/SOCBenchmark/), [COD10K](https://dengpingfan.github.io/pages/COD.html), [Trans10K](https://xieenze.github.io/projects/TransLAB/TransLAB.html), [ColonDB](http://vi.cvc.uab.es/colon-qa/cvccolondb/), [ETIS](https://www.kaggle.com/datasets/nguyenvoquocduong/etis-laribpolypdb), [ISIC](https://challenge.isic-archive.com/data/), [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad), [VisA](https://paperswithcode.com/dataset/visa).
 
 
 
